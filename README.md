@@ -10,6 +10,13 @@ Sistema de facturación desarrollado en Java que permite gestionar clientes, cal
 - Gestión de precios y cantidades
 - Visualización de factura formateada
 
+## Mejoras Implementadas vs. Código Base
+- ✅ Clase Cliente creada para mejor organización
+- ✅ Sistema de descuentos interactivo y opcional
+- ✅ Generación de número de factura aleatorio
+- ✅ Información temporal (fecha y hora) automática
+- ✅ Factura más profesional con todos los datos del cliente
+
 ### Aportes Creativos Implementados
 
 #### 1. **Clase Cliente**
@@ -112,14 +119,6 @@ Descuento (5.0%): 1050.0
 El total de la factura es: 23740.0
 -------TENGA BUEN DIA------
 ```
-
-## Mejoras Implementadas vs. Código Base
-- ✅ Clase Cliente creada para mejor organización
-- ✅ Sistema de descuentos interactivo y opcional
-- ✅ Generación de número de factura aleatorio
-- ✅ Información temporal (fecha y hora) automática
-- ✅ Factura más profesional con todos los datos del cliente
-- ✅ Mejor experiencia de usuario con mensajes claros
 
 ## Autor ✒️
 * **Victor Cordoba** - *Creador y desarrollador principal* - [VoctorX](https://github.com/VoctorX)
